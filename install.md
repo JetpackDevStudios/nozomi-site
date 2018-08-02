@@ -1,6 +1,6 @@
 # Installation
 
-Installation assumes you have already completed database setup. If you have not, refer to [this]
+Installation assumes you have already completed database setup. If you have not, refer to [this](install/database.md)
 
 ## Via Composer
 
