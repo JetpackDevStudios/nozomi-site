@@ -5,4 +5,4 @@
 [GitHub](https://github.com/afroraydude/nozomi-core)
 [Get Started](index.md)
 
-![color](#ffffff)
+![color](#3f3f3f)
