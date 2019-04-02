@@ -2,7 +2,7 @@
 
 > A lightweight and simple content management system built on Slim Framework
 
-[GitHub](https://github.com/afroraydude/nozomi-core)
+[GitHub](https://github.com/JetpackDevStudios/nozomi-core)
 [Get Started](index.md)
 
 ![color](#3f3f3f)
