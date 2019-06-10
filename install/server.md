@@ -10,7 +10,7 @@ In your virtual host configuration:
 server {
     listen       80;
     server_name  localhost;
-		root   /path/to/public;
+		root   /path/to/index.php;
 		index  index.php;
 		
         #charset koi8-r;
@@ -35,7 +35,12 @@ server {
 
 ## Apache
 
-In your `.htaccess` file:
+First make sure `mod_rewrite` is enabled by checking your `apache2.conf` or `httpd.conf` file.
+```conf
+LoadModule rewrite_module modules/mod_rewrite.so
+```
+
+Then, in your `.htaccess` file:
 
 ```apacheconf
 RewriteEngine On
